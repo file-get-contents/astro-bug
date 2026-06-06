@@ -14,4 +14,4 @@ Integrations             none
 ## About
 When import a React component from .astro, remove the `<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />` inside the head tag.
 
-
+<img src="https://github.com/file-get-contents/astro-bug/blob/main/screenshot.png">
